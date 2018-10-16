@@ -4,75 +4,75 @@ Aguascalientes, Universidad Cuauhtemoc, Plantel Aguascalientes, Private,355,1,0
 Baja California, Centro de Estudios Universitarios Xochicalco, Campus Ensenada, Private,653,1,1
 Baja California, Centro de Estudios Universitarios Xochicalco, Campus Mexicali, Private,625,1,1
 Baja California, Centro de Estudios Universitarios Xochicalco, Campus Tijuana, Private,801,1,1
-Baja California, Universidad Autonoma de Baja California, Campus Ensenada, Public,891,1,0
-Baja California, Universidad Autonoma de Baja California, Campus Mexicali, Public,982,1,0
-Baja California, Universidad Autonoma de Baja California, Campus Tijuana, Public,920,1,0
-Baja California, Universidad Autonoma de Baja California, Campus Valle de las Palmas, Public,948,1,0
+Baja California, Universidad Autonoma de Baja California, Campus Ensenada, Public,891,1,1
+Baja California, Universidad Autonoma de Baja California, Campus Mexicali, Public,982,1,1
+Baja California, Universidad Autonoma de Baja California, Campus Tijuana, Public,920,1,1
+Baja California, Universidad Autonoma de Baja California, Campus Valle de las Palmas, Public,948,1,1
 Campeche, Universidad Autonoma de Campeche, , Public,694,1,0
-Chiapas, Instituto de Estudios Superiores de Chiapas, Campus Tapachula, Private,165,0,1
-Chiapas, Instituto de Estudios Superiores de Chiapas, Campus Tuxtla Gutierrez, Private,948,0,1
-Chiapas, Universidad Autonoma de Chiapas, , Public,371,1,1
-Chiapas, Universidad Pablo Guardado Chavez, , Private,443,2,0
+Chiapas, Instituto de Estudios Superiores de Chiapas, Campus Tapachula, Private,165,1,0
+Chiapas, Instituto de Estudios Superiores de Chiapas, Campus Tuxtla Gutierrez, Private,948,0,0
+Chiapas, Universidad Autonoma de Chiapas, , Public,371,0,0
+Chiapas, Universidad Pablo Guardado Chavez, , Private,443,2,1
 Chihuahua, Universidad Autonoma de Chihuahua, , Public,1753,2,1
 Chihuahua, Universidad Autonoma de Chihuahua, Campus Hidalgo del Parral, Public,285,2,1
 Chihuahua, Universidad Autonoma de Ciudad Juarez, , Public,1449,1,1
 Mexico City, Instituto Politecnico Nacional, , Public,920,3,1
-Mexico City, Instituto Politecnico Nacional, , Public,4273,3,0
-Mexico City, Instituto Politecnico Nacional, , Public,1270,3,0
+Mexico City, Instituto Politecnico Nacional, , Public,4273,3,1
+Mexico City, Instituto Politecnico Nacional, , Public,1270,3,1
 Mexico City, Instituto Tecnologico y de Estudios Superiores de Monterrey, Campus Ciudad de Mexico, Private,220,1,1
-Mexico City, Universidad Autonoma Metropolitana, Plantel Xochimilco, Public,1018,0,1
+Mexico City, Universidad Autonoma Metropolitana, Plantel Xochimilco, Public,1018,0,0
 Mexico City, Universidad del Ejercito y Fuerza Aerea, , Public,482,1,0
-Mexico City, Universidad del Valle de Mexico, Campus Sur, Private,599,1,1
+Mexico City, Universidad del Valle de Mexico, Campus Sur, Private,599,1,0
 Mexico City, Universidad Justo Sierra, , Private,681,1,0
 Mexico City, Universidad La Salle, , Private,1022,1,0
-Mexico City, Universidad Nacional Autonoma de Mexico, Ciudad Universitaria, Public,6270,1,0
-Mexico City, Universidad Nacional Autonoma de Mexico, Facultad de Estudios Superiores Zaragoza, Public,1223,1,0
-Mexico City, Universidad Naval, , Public,302,1,0
+Mexico City, Universidad Nacional Autonoma de Mexico, Ciudad Universitaria, Public,6270,1,1
+Mexico City, Universidad Nacional Autonoma de Mexico, Facultad de Estudios Superiores Zaragoza, Public,1223,1,1
+Mexico City, Universidad Naval, , Public,302,1,1
 Mexico City, Universidad Panamericana, , Private,242,1,1
-Mexico City, Universidad Westhill, , Private,154,1,0
+Mexico City, Universidad Westhill, , Private,154,1,1
 Coahuila, Universidad Autonoma de Coahuila, Unidad Saltillo, Public,486,1,1
-Coahuila, Universidad Autonoma de Coahuila, Unidad Torreon, Public,486,1,0
+Coahuila, Universidad Autonoma de Coahuila, Unidad Torreon, Public,486,1,1
 Colima, Universidad de Colima, , Public,609,0,0
 Durango, Universidad Autonoma de Durango, , Private,232,1,0
 Durango, Universidad Autonoma Espana de Durango, , Private,97,1,0
 Durango, Universidad Juarez del Estado de Durango, Unidad Durango, Public,1276,1,0
 Durango, Universidad Juarez del Estado de Durango, Unidad Gomez Palacio, Public,624,1,0
-Guanajuato, Universidad de Celaya, , Private,279,1,1
+Guanajuato, Universidad de Celaya, , Private,279,1,0
 Guanajuato, Universidad de Guanajuato, , Public,920,0,0
 Guanajuato, Universidad Quetzalcoatl en Irapuato, , Private,591,1,0
-Guerrero, Universidad Autonoma de Guerrero, , Public,1222,1,0
-Guerrero, Universidad Hipocrates, , Private,410,1,0
-Hidalgo, Universidad Autonoma del Estado de Hidalgo, , Public,2171,1,1
+Guerrero, Universidad Autonoma de Guerrero, , Public,1222,1,1
+Guerrero, Universidad Hipocrates, , Private,410,1,1
+Hidalgo, Universidad Autonoma del Estado de Hidalgo, , Public,2171,1,0
 Jalisco, Instituto Tecnologico y de Estudios Superiores de Monterrey, Campus Guadalajara, Private,204,1,1
 Jalisco, Universidad Autonoma de Guadalajara, , Private,4441,1,0
-Jalisco, Universidad de Guadalajara, , Public,4307,1,0
-Jalisco, Universidad de Guadalajara, Centro Universitario de la Costa, Public,411,1,0
-Jalisco, Universidad de Guadalajara, Centro Universitario del Sur, Public,661,1,0
-Jalisco, Universidad del Valle de Mexico, Campus Zapopan, Private,742,1,1
-Jalisco, Universidad Guadalajara Lamar, , Private,1453,1,0
-Mexico State, Universidad Anahuac, Campus Mexico Norte, Private,2138,0,1
-Mexico State, Universidad Autonoma del Estado de Mexico, , Public,1291,1,1
-Mexico State, Universidad Nacional Autonoma de Mexico, Facultad de Estudios Superiores Iztacala, Public,3339,1,0
+Jalisco, Universidad de Guadalajara, , Public,4307,1,1
+Jalisco, Universidad de Guadalajara, Centro Universitario de la Costa, Public,411,1,1
+Jalisco, Universidad de Guadalajara, Centro Universitario del Sur, Public,661,1,1
+Jalisco, Universidad del Valle de Mexico, Campus Zapopan, Private,742,1,0
+Jalisco, Universidad Guadalajara Lamar, , Private,1453,1,1
+Mexico State, Universidad Anahuac, Campus Mexico Norte, Private,2138,1,0
+Mexico State, Universidad Autonoma del Estado de Mexico, , Public,1291,1,0
+Mexico State, Universidad Nacional Autonoma de Mexico, Facultad de Estudios Superiores Iztacala, Public,3339,1,1
 Mexico State, Universidad Tominaga Nakamoto, , Private,649,0,0
 Michoacan, Universidad Michoacana de San Nicolas de Hidalgo, , Public,2476,0,0
 Michoacan, Universidad Vasco de Quiroga, Campus Santa Maria, Private,404,1,0
-Morelos, Universidad Autonoma del Estado de Morelos, , Public,977,1,1
-Morelos, Universidad Latinoamericana, , Private,692,1,1
+Morelos, Universidad Autonoma del Estado de Morelos, , Public,977,1,0
+Morelos, Universidad Latinoamericana, , Private,692,1,0
 Nayarit, Universidad Autonoma de Nayarit, , Public,1109,1,0
 Nuevo Leon, Instituto Tecnologico y de Estudios Superiores de Monterrey, Campus Monterrey, Private,881,1,1
 Nuevo Leon, Universidad Autonoma de Nuevo Leon, , Public,8021,1,0
-Nuevo Leon, Universidad de Montemorelos, , Private,561,1,1
+Nuevo Leon, Universidad de Montemorelos, , Private,561,1,0
 Nuevo Leon, Universidad de Monterrey, , Private,1250,2,0
-Oaxaca, Universidad Autonoma Benito Juarez de Oaxaca, , Public,1592,1,0
-Oaxaca, Universidad Regional del Sureste, , Private,1330,1,0
+Oaxaca, Universidad Autonoma Benito Juarez de Oaxaca, , Public,1592,1,1
+Oaxaca, Universidad Regional del Sureste, , Private,1330,1,1
 Puebla, Benemerita Universidad Autonoma de Puebla, , Public,5325,1,1
-Puebla, Centro de Estudios Superiores de Tepeaca, , Private,540,1,0
+Puebla, Centro de Estudios Superiores de Tepeaca, , Private,540,1,1
 Puebla, Universidad de las Americas Puebla, , Private,243,1,0
-Puebla, Universidad Popular Autonoma del Estado de Puebla, , Private,2865,2,0
-Queretaro, Universidad Anahuac, Campus Queretaro, Private,397,0,1
+Puebla, Universidad Popular Autonoma del Estado de Puebla, , Private,2865,2,1
+Queretaro, Universidad Anahuac, Campus Queretaro, Private,397,1,0
 Queretaro, Universidad Autonoma de Queretaro, , Public,658,1,0
-Queretaro, Universidad del Valle de Mexico, Campus Queretaro, Private,173,1,1
-Quintana Roo, Universidad Anahuac, Campus Cancun, Private,221,0,0
+Queretaro, Universidad del Valle de Mexico, Campus Queretaro, Private,173,1,0
+Quintana Roo, Universidad Anahuac, Campus Cancun, Private,221,1,0
 Quintana Roo, Universidad de Quintana Roo, , Public,742,0,0
 San Luis Potosi, Universidad Autonoma de San Luis Potosi, , Public,898,1,0
 Sinaloa, Universidad Autonoma de Sinaloa, , Public,3233,1,0
@@ -80,25 +80,25 @@ Sonora, Universidad del Valle de Mexico, Campus Hermosillo, Private,529,1,0
 Tabasco, Universidad Autonoma de Guadalajara, Campus Tabasco, Private,644,1,0
 Tabasco, Universidad Juarez Autonoma de Tabasco, , Public,2210,1,0
 Tabasco, Universidad Juarez Autonoma de Tabasco, Div. Academica Multidisciplinaria de Comalcalco, Public,994,1,0
-Tabasco, Universidad Olmeca, , Private,674,1,0
-Tamaulipas, Instituto de Ciencias y Estudios Superiores de Tamaulipas, , Private,316,1,1
-Tamaulipas, Universidad Anahuac, Instituto de Estudios Superiores de Tamaulipas, Private,169,0,0
-Tamaulipas, Universidad Autonoma de Tamaulipas, , Public,1201,1,1
-Tamaulipas, Universidad Autonoma de Tamaulipas, Unidad Matamoros, Public,1031,1,1
-Tamaulipas, Universidad del Noreste, , Private,938,1,1
-Tamaulipas, Universidad del Valle de Mexico, Campus Ciudad Reynosa, Private,596,1,1
+Tabasco, Universidad Olmeca, , Private,674,1,1
+Tamaulipas, Instituto de Ciencias y Estudios Superiores de Tamaulipas, , Private,316,1,0
+Tamaulipas, Universidad Anahuac, Instituto de Estudios Superiores de Tamaulipas, Private,169,2,1
+Tamaulipas, Universidad Autonoma de Tamaulipas, , Public,1201,1,0
+Tamaulipas, Universidad Autonoma de Tamaulipas, Unidad Matamoros, Public,1031,1,0
+Tamaulipas, Universidad del Noreste, , Private,938,1,0
+Tamaulipas, Universidad del Valle de Mexico, Campus Ciudad Reynosa, Private,596,1,0
 Tamaulipas, Universidad del Valle de Mexico, Campus Ciudad Victoria, Private,658,1,0
 Tamaulipas, Universidad La Salle, Campus Ciudad Victoria, Private,329,1,0
 Tamaulipas, Universidad Mexico Americana del Norte, , Private,705,1,0
-Tlaxcala, Universidad Autonoma de Tlaxcala, , Public,852,1,0
+Tlaxcala, Universidad Autonoma de Tlaxcala, , Public,852,1,1
 Veracruz, Universidad Cristobal Colon, , Private,339,3,0
 Veracruz, Universidad del Valle de Mexico, Campus Universidad Villa Rica, Private,852,1,0
 Veracruz, Universidad Veracruzana, Unidad Ciudad Mendoza, Public,908,1,0
 Veracruz, Universidad Veracruzana, Unidad Minatitlan, Public,510,1,0
 Veracruz, Universidad Veracruzana, Unidad Poza Rica, Public,533,1,0
 Veracruz, Universidad Veracruzana, Unidad Veracruz, Public,940,1,0
-Veracruz, Universidad Veracruzana, Unidad Xalapa, Public,816,1,1
-Yucatan, Universidad Anahuac, Campus Mayab, Private,729,0,0
-Yucatan, Universidad Autonoma de Yucatan, , Public,1035,0,1
-Yucatan, Universidad Marista de Merida, , Private,466,2,0
+Veracruz, Universidad Veracruzana, Unidad Xalapa, Public,816,1,0
+Yucatan, Universidad Anahuac, Campus Mayab, Private,729,1,1
+Yucatan, Universidad Autonoma de Yucatan, , Public,1035,0,0
+Yucatan, Universidad Marista de Merida, , Private,466,2,1
 Zacatecas, Universidad Autonoma de Zacatecas, , Public,1810,1,0
