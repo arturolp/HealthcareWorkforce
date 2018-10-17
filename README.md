@@ -1,4 +1,4 @@
-# GeneticCounselingWorkforce
+# HealthcareWorkforce
 An R package to build plots about the genetic counseling and education workforce
 
 ![GitHub Logo](/figures/workforce-panels.png)
