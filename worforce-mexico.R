@@ -105,7 +105,7 @@ getStatesBar <- function(mydata, title, ylab, color=c("slategray3", "thistle3"))
     geom_point(aes(x=reorder(x, y), y=y, color=col), size=4.5) +
     geom_text(aes(x=reorder(x, y), y=y, label=round(y, digits=1)), size=2) +
     coord_flip() +
-    scale_color_manual(breaks=mydata$col, values=color, name="National average") +
+    scale_color_manual(breaks=mydata$col, values=color, name="Average") +
     labs(subtitle=title, y=ylab) +
     theme_light() +
     theme(legend.position = "bottom",
@@ -133,13 +133,13 @@ programs = data.frame(x=states$name, y=states$medical.programs)
 g5 <- getStatesBar(programs, "Medical Programs", "Number of Medical Programs", c("slategray3", "thistle3"))
 
 #Medical Students
-students.alpha <- normalize(states$medical.students, states$population)
+students.alpha <- range01(states$medical.students)
 names(students.alpha) = states$id
 g2 <- getMexicoStates(mxstate.map, states, regions, students.alpha, "Medical Students")
 
-students = data.frame(x=states$name, y=states$medical.students/states$population*100000)
+students = data.frame(x=states$name, y=states$medical.students)
 #students = rbind(students, data.frame(x="National", y=mean(states$medical.students/states$population*100000), color="firebrick2"))
-g6 <- getStatesBar(students, "Medical Students", "Number of Students\nper 100,000 population", c("slategray3", "thistle3"))
+g6 <- getStatesBar(students, "Medical Students", "Number of Medical Students", c("slategray3", "thistle3"))
 
 
 

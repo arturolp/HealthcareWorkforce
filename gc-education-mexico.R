@@ -96,7 +96,7 @@ plotRegionCourses <- function(mydata, title){
                     money=as.character(mydata$type)
                     )
   mynewData = rbind(mynewData, cbind(name=shortName(mydata$university), 
-                                     courses=as.numeric(mydata$genetics.courses), 
+                                     courses=as.numeric(mydata$genetics.courses-mydata$medical.genetics.courses), 
                                      type=rep("Non-clinical Genetics", dim(mydata)[1]),
                                      money=as.character(mydata$type)
                                      )

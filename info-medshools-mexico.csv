@@ -1,4 +1,4 @@
-state, university, campus, type, total-enrollment, genetics-courses, medical-genetics-courses
+﻿state, university, campus, type, total-enrollment, genetics-courses, medical-genetics-courses
 Aguascalientes, Universidad Autonoma de Aguascalientes, , Public,752,1,1
 Aguascalientes, Universidad Cuauhtemoc, Plantel Aguascalientes, Private,355,1,0
 Baja California, Centro de Estudios Universitarios Xochicalco, Campus Ensenada, Private,653,1,1
@@ -82,7 +82,7 @@ Tabasco, Universidad Juarez Autonoma de Tabasco, , Public,2210,1,0
 Tabasco, Universidad Juarez Autonoma de Tabasco, Div. Academica Multidisciplinaria de Comalcalco, Public,994,1,0
 Tabasco, Universidad Olmeca, , Private,674,1,1
 Tamaulipas, Instituto de Ciencias y Estudios Superiores de Tamaulipas, , Private,316,1,0
-Tamaulipas, Universidad Anahuac, Instituto de Estudios Superiores de Tamaulipas, Private,169,2,1
+Tamaulipas, Universidad Anahuac - I.E.S.T, Instituto de Estudios Superiores de Tamaulipas, Private,169,2,1
 Tamaulipas, Universidad Autonoma de Tamaulipas, , Public,1201,1,0
 Tamaulipas, Universidad Autonoma de Tamaulipas, Unidad Matamoros, Public,1031,1,0
 Tamaulipas, Universidad del Noreste, , Private,938,1,0
@@ -98,7 +98,7 @@ Veracruz, Universidad Veracruzana, Unidad Minatitlan, Public,510,1,0
 Veracruz, Universidad Veracruzana, Unidad Poza Rica, Public,533,1,0
 Veracruz, Universidad Veracruzana, Unidad Veracruz, Public,940,1,0
 Veracruz, Universidad Veracruzana, Unidad Xalapa, Public,816,1,0
-Yucatan, Universidad Anahuac, Campus Mayab, Private,729,1,1
+Yucatan, Universidad Anahuac, Campus Mayab, Private,729,1,0
 Yucatan, Universidad Autonoma de Yucatan, , Public,1035,0,0
 Yucatan, Universidad Marista de Merida, , Private,466,2,1
 Zacatecas, Universidad Autonoma de Zacatecas, , Public,1810,1,0
