@@ -4,7 +4,7 @@ An R package to build plots about the genetic counseling and education workforce
 ![GitHub Logo](/figures/workforce-panels.png)
 
 ## Description
-Medical journeys of the cohort: Each patient is represented by a rectangle, with rows representing each year of follow-up treatment. Events are color-coded according to the type of event, and the length of the bar represents the duration between the occurrence of an event and the event that preceded it.
+This package helps build various statistic about the healthcare workforce by Mexican state
 
 ## Citation
 For citation and more information refer to:
