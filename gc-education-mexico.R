@@ -21,7 +21,7 @@ library(ggplot2)
 library(ggrepel)
 library(stringr)
 library(ggpubr)
-
+library(grDevices)
 
 #----------------------------------
 # 1. Load data
@@ -61,7 +61,7 @@ g1<- ggplot(states, aes(x=clinical.genetics.courses, y=genetics.courses)) +
   )
 
 gstates <- annotate_figure(g1, top = text_grob("Medical Education", face = "bold", size = 14))
-ggexport(gstates, filename="figures/medical-education.png", width = 2000, height = 1500, res=300)
+#ggexport(gstates, filename="figures/medical-education.png", width = 2000, height = 1500, res=300)
 
 
 #--------
@@ -147,5 +147,8 @@ gBars <- ggarrange(gN, gCE, gCW, gS, gSE,
                    align="hv",
                    legend = "bottom", common.legend = TRUE)
 gBars <- annotate_figure(gBars, top = text_grob("", face = "bold", size = 14))
-ggexport(gBars, filename="figures/schools-by-region.png", width = 5000, height = 2000, res=300)
+#ggexport(gBars, filename="figures/schools-by-region.png", width = 5000, height = 2000, res=300)
+
+ggsave(filename="figures/figure1-schools-by-region.eps", plot=gBars, device=cairo_ps, 
+       width = 15, height = 10, fallback_resolution = 600)
 

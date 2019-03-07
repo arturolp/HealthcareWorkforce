@@ -21,6 +21,7 @@ library(ggplot2)
 library(ggrepel)
 library(stringr)
 library(ggpubr)
+library(grDevices)
 
 #if (!require("devtools")) {
 #  install.packages("devtools")
@@ -184,6 +185,9 @@ gpanel <- ggarrange(gMaps, gBars,
                    nrow = 2, ncol = 1,
                    heights = c(1,2),
                    common.legend = FALSE)
-ggexport(gpanel, filename="figures/workforce-panels.png", width = 4000, height = 3000, res=300)
+#ggexport(gpanel, filename="figures/workforce-panels.png", width = 4000, height = 3000, res=300)
 
+
+ggsave(filename="figures/figure2-workforce-panels.eps", plot=gpanel, device=cairo_ps, 
+       width = 15, height = 10, fallback_resolution = 600)
 
