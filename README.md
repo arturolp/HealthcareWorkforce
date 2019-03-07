@@ -9,7 +9,7 @@ Medical journeys of the cohort: Each patient is represented by a rectangle, with
 ## Citation
 For citation and more information refer to:
 
->Bucio, D. et al. (2018). A genetic counseling needs assessment of Mexico. (in review by journal)
+>Bucio, D. et al. (2019). A genetic counseling needs assessment of Mexico. (in press in Molecular Genetics & Genomic Medicine)
 
 ## Current development status
 This package is in development by Arturo Lopez Pineda, PhD (arturolp @ stanford.edu)
